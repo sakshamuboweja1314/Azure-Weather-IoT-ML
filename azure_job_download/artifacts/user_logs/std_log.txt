@@ -1,0 +1,10 @@
+WEATHER MODEL TRAINING COMPLETED
+{
+  "rain_accuracy": 0.811,
+  "temperature_mae": 0.8517568124344229,
+  "temperature_rmse": 1.074218341733085,
+  "temperature_r2": 0.9529078701004388,
+  "training_rows": 4000,
+  "test_rows": 1000
+}
+Saved models and dataset to: /mnt/azureml/cr/j/5796397df8ef4b4cacbca85af8b5b2c4/cap/data-capability/wd/model_output
